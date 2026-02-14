@@ -3,7 +3,7 @@
 int main()
 {
     int a;
-    printf(" enter the makrs ");
+    printf(" enter the marks ");
     scanf("%d",&a);
     if(a>90 && a<100)
     {
@@ -27,4 +27,5 @@ int main()
 }
 return 0;
 }
+
 
